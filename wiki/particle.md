@@ -1,13 +1,13 @@
 ## Particle
 
-A **particle** is a kind of [word](word.md) the performs a grammatical function.
+A **particle** is a kind of [word](word.md) that performs a grammatical function.
 
 ### Morphology
 
 Particles are recognizable by their [morphology](morphology.md) as they follow one of the following patterns:
 
 - Starts with a single *non-sonorant consonant*, followed only by [*vhowels*](vhowels.md). (Examples: **zi**, **mio**, **tiho**)
-- Starts with a *sonorant* or *vowel a or o*, and is a string of [*vhowels*](vhowels.md) and *sonorants*. They can end either with a *vowel* or *sonorant*. (Exemples: **a**, **ol**, **ahu** or **nu**)
+- Starts with a *[sonorant](morphology.md#sonorants))* or *vowel a or o*, and is a string of [*vhowels*](vhowels.md) and *sonorants*. They can end either with a *vowel* or *sonorant*. (Exemples: **a**, **ol**, **ahu** or **nu**)
 
 ### Families
 
@@ -25,14 +25,14 @@ Particles are organized in **families** that have identical grammar but convey d
     - [PO](PO_family.md) (po-): Paragraph marker.
     - PU: unused pattern
 - Starts with B: miscellaneous
-    - [BI](BI_family.md) (bi-): Wide-scope negation
+    - [BI](BI_family.md) (bi-): Wide-scope [chain](chaining.md) negation. See [ZI](ZI_family.md) for short-scope predicate negation.
     - [BE](BE_family.md) (be-): Miscellaneous terminator for various grammar rules
     - [BA](BA_family.md) (ba-): Inline argument marker for [arguments lists](arguments_list.md).
     - [BO](BO_family.md) (bo-): Inline variable assignment.
     - [BU](BU_family.md) (bu-): [Enumeration](enumeration.md) separator.
 - Starts with V/F: [Explicit binding](explicit_binding.md)
-    - [FI](FI_family.md) (f-): Continues an [explicit binding](explicit_binding.md) scope.
     - [VI](VI_family.md) (v- except "vei"): Starts an [explicit binding](explicit_binding.md) scope.
+    - [FI](FI_family.md) (f-): Continues an [explicit binding](explicit_binding.md) scope.
     - [VAI](VAI_family.md) ("vai" only): Terminates an [explicit binding](explicit_binding.md) scope.
 - [TI](TI_family.md) (t-): Digit words to compose [numbers](number.md).
 - Starts with D: Metadata
@@ -63,8 +63,3 @@ Particles are organized in **families** that have identical grammar but convey d
 - Starts with G/K: Variables
 	- [GI](GI_family.md) (g-): Predicate variable.
     - [KI](KI_family.md) (k-): [Atom](atom.md)/[generic](generics.md) variable.
-
-
-  
-    
-	
